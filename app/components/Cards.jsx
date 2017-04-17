@@ -7,7 +7,7 @@ var Cards =React.createClass({
         return(
 
              <div>
-      <h1 className="text-center page-title">cards</h1>
+      <h1 className="text-center page-title">Cards</h1>
       <p>
         This is the application build on React. This is the <a>Cards </a> Component
       </p>
